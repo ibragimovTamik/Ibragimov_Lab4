@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+TestResults/
+*.nupkg
+test-results/
+test-results-final/
+baseline-results/
+local-nuget/
+nuget-packages/
+dotnet-home/
+work/
